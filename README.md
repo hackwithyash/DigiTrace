@@ -23,7 +23,7 @@ DigiTrace is a Python-based OSINT (Open Source Intelligence) tool for tracing In
 
 🪟 Windows
 
-git clone https://github.com/yourusername/DigiTrace.git
+git clone https://github.com/hackwithyash/DigiTrace.git
 
 cd DigiTrace
 
@@ -39,7 +39,7 @@ sudo apt update
   
 sudo apt install python3 python3-pip git -y
   
-git clone https://github.com/yourusername/DigiTrace.git
+git clone https://github.com/hackwithyash/DigiTrace.git
   
 cd DigiTrace
   
@@ -55,7 +55,7 @@ pkg update && pkg upgrade
     
 pkg install python git -y
     
-git clone https://github.com/yourusername/DigiTrace.git
+git clone https://github.com/hackwithyash/DigiTrace.git
     
 cd DigiTrace
     
